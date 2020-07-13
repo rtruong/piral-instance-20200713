@@ -4431,7 +4431,7 @@ piral-cli@latest:
     typescript "^3.8.3"
     yargs "^15.3.1"
 
-piral-core@^0.11.8:
+piral-core@^0.11.7:
   version "0.11.8"
   resolved "https://registry.yarnpkg.com/piral-core/-/piral-core-0.11.8.tgz#0700abc8dcd83934a35dd9eaf4fa57f962b46c34"
   integrity sha512-e1mVZSZMKEFyNAyXMbR3aQTcQpWRWMPdJRE0+J+2Iw3XHJDmBJmzBwctRmW1F0vawODZHkiHE53I1WWMvnkzpw==
@@ -4444,7 +4444,7 @@ piral-dashboard@^0.11.8:
   resolved "https://registry.yarnpkg.com/piral-dashboard/-/piral-dashboard-0.11.8.tgz#1dc41806acaf438a613778190f06b5bcf818d23e"
   integrity sha512-phPjL7cob6K9BOe1QdLceGIOeSQV3m00WcLQsTA+7w2ICw8BsHcS98dJqTlkThlbMM61cUH7C7KxDWY4kWW7HQ==
 
-piral-ext@^0.11.8:
+piral-ext@^0.11.7:
   version "0.11.8"
   resolved "https://registry.yarnpkg.com/piral-ext/-/piral-ext-0.11.8.tgz#2aa5dfd04ca6d9696451843556495dbe370bac02"
   integrity sha512-7Qi1xUgV12IVykqHwrSAfAoMPkicgjTg/ZkVksiqOu9T6ciK6n8KTVyZPhqpD7qQjHAIP3WFmrWzvKxgkopzTA==
@@ -4486,15 +4486,15 @@ piral-translate@^0.11.8:
   resolved "https://registry.yarnpkg.com/piral-translate/-/piral-translate-0.11.8.tgz#855bf2d4033dcc3b5719306737f525d2536be535"
   integrity sha512-jhMGoMshVfQeH4krja4fL+5xBIH30iaRir5XDHHtpNuAredUBy2rsghmNU78C5hiu4Z+VCdvfAOsPyysV1OcgQ==
 
-piral@^0.11.8:
-  version "0.11.8"
-  resolved "https://registry.yarnpkg.com/piral/-/piral-0.11.8.tgz#1703129b43d2002602e4fa5c0869537cdb8243df"
-  integrity sha512-kJG6+W1kf157WwKPrB8Bf2yg2Wb3LU4HpqpOwhCaJMmVM2hmK1MvTQ/Rb1MpupoWb/cKyIwMya05bCxY/E0BLQ==
+piral@0.11.7:
+  version "0.11.7"
+  resolved "https://registry.yarnpkg.com/piral/-/piral-0.11.7.tgz#c0e7bc6ba964da3cb430c909b91b7b591df9f9cc"
+  integrity sha512-CVyoodSRd8EU5FVv5A6ymuUIJSbU3yJ9CkyaScXU/FDrFe5vhh0oZhJYXKugcHRBzy6yOZJZeP4xCWQlj0druA==
   dependencies:
     core-js "3.6.4"
     current-script-polyfill "^1.0.0"
-    piral-core "^0.11.8"
-    piral-ext "^0.11.8"
+    piral-core "^0.11.7"
+    piral-ext "^0.11.7"
     promise-polyfill "^8.1.0"
     react "^16.8.1"
     react-dom "^16.8.1"

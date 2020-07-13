@@ -6,7 +6,7 @@
     "piral"
   ],
   "dependencies": {
-    "piral": "^0.11.8"
+    "piral": "0.11.7"
   },
   "scripts": {
     "start": "piral debug",
